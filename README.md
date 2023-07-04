@@ -23,7 +23,7 @@ Dada a dimensão dos dados e seu nível, seria cabível realizar testes de anál
 - TRANSFORMAÇÃO: Através do Excel e Power Query foi feita a etapa de tratamento dos dados.
 - LOAD: Template criado no Figma utilizando a paleta de tons escurecida, distribuição das visualizações dentro do Power BI visando a facilitação da visualização e interpretação dos dados.
 
-![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/bitencourtvitor/blob/main/Acidentes%20em%20Rodovias%20Federais%20na%20Regi%C3%A3o%20Sudeste/print%20dashboard%20completo.png)
+![Aqui há um print do Dashboard](https://github.com/BitencourtVitor/Acidentes_Rodoviarios/blob/main/print%20dashboard%20completo.png)
 
 
 
